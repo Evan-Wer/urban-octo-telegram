@@ -57,7 +57,9 @@ p {
     background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
+    display: inline-block;
 }
+
 
 .float-left {
     float: left;
@@ -77,6 +79,11 @@ p {
     position: relative;
     top: 800px;
     padding: 20px;
+}
+
+.content p {
+    display: relative;
+    width: 65%;
 }
 
 .benefits {
@@ -199,7 +206,7 @@ p {
     text-align: center;
     line-height: 1,5;
     position: relative;
-    top 30px;
+    top: 50px;
 }
 
 .footer h2 {
