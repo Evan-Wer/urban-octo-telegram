@@ -101,6 +101,11 @@ p {
     margin-bottom: 32px;
     color: #ffffff;
 }
+.benefit-lead p {
+    margin: 0 10px 0 10px;
+    text-align: left;
+    word-wrap: break-word;
+}
 
 .benefit-brand {
     margin-bottom: 32px;
