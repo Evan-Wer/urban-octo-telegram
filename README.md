@@ -6,7 +6,7 @@ Added Features inclue:
     -Titling for navigation links!
     -Preliminary screen reader support for improved UI navigation
     -Fresh new stylings
-    -Re-order CSS (your welcome future contributors! 😊)
+    -Re-ordered CSS 
 
 Contributors: 
 Evan Werner - Primary Contributor
